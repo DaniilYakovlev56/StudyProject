@@ -1,0 +1,15 @@
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/bin/Debug/net7.0/StudyProjectCore
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/bin/Debug/net7.0/StudyProjectCore.deps.json
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/bin/Debug/net7.0/StudyProjectCore.runtimeconfig.json
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/bin/Debug/net7.0/StudyProjectCore.dll
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/bin/Debug/net7.0/StudyProjectCore.pdb
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.csproj.AssemblyReference.cache
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.AssemblyInfoInputs.cache
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.AssemblyInfo.cs
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.csproj.CoreCompileInputs.cache
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.dll
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/refint/StudyProjectCore.dll
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.pdb
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/StudyProjectCore.genruntimeconfig.cache
+/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProjectCore/obj/Debug/net7.0/ref/StudyProjectCore.dll
