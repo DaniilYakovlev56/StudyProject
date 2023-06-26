@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProject.csproj",
+      "projectUniqueName": "/Users/daniilakovlev/Documents/StudyProject/StudyProject/StudyProject.csproj",
       "projectName": "StudyProject",
-      "projectPath": "/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/StudyProject.csproj",
+      "projectPath": "/Users/daniilakovlev/Documents/StudyProject/StudyProject/StudyProject.csproj",
       "packagesPath": "/Users/daniilakovlev/.nuget/packages/",
-      "outputPath": "/Users/daniilakovlev/RiderProjects/StudyProject/StudyProject/obj/",
+      "outputPath": "/Users/daniilakovlev/Documents/StudyProject/StudyProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniilakovlev/.nuget/NuGet/NuGet.Config"
